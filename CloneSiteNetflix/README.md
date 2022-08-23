@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Projeto prático visando aplicar os conhecimentos aquiridos em HTML5, CSS3 e JavaScript ES6.
+Projeto prático visando aplicar os conhecimentos adquiridos em HTML5, CSS3 e JavaScript ES6.
 
 ## Descrição do projeto
 
@@ -16,4 +16,4 @@ Como funcionalidade extra, ao clicar nas imagens será aberto um modal para exec
 
 ## Como acessar
 
-O código-fonte do projeto encontra-se totalmente nesse repositório do GitHub, onde também está hospedado e pode ser acessado em qualquer navegador no endereço [edenpaulocruz.github.io/netflix-clone/](https://edenpaulocruz.github.io/netflix-clone/).
+O código-fonte do projeto encontra-se totalmente nesse repositório do GitHub, onde também está hospedado e pode ser acessado em qualquer navegador no endereço [https://github.com/Trugilho/CloneSiteNetflix/edit/main/CloneSiteNetflix).
